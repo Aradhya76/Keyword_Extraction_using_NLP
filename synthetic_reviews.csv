@@ -1,0 +1,301 @@
+review_id,review,sentiment
+1,"Great service, helpful support",positive
+2,Poor experience: took ages to resolve,negative
+3,"Great service, very satisfied",positive
+4,Very disappointed with the service. took ages to resolve,negative
+5,The service outage for hours was unacceptable and frustrating.,negative
+6,Poor experience: website kept crashing,negative
+7,I waited too long and service outage for hours,negative
+8,Very disappointed with the service. problem still not fixed,negative
+9,Excellent support. helpful support,positive
+10,Terrible support. took ages to resolve,negative
+11,Very disappointed with the service. kept transferring my call,negative
+12,Excellent support. friendly staff,positive
+13,"Great service, refund processed smoothly",positive
+14,Terrible support. service outage for hours,negative
+15,Excellent support. very satisfied,positive
+16,Very disappointed with the service. agent was rude,negative
+17,Excellent support. friendly staff,positive
+18,"Great service, refund processed smoothly",positive
+19,Terrible support. problem still not fixed,negative
+20,Poor experience: could not reach anyone,negative
+21,"Great service, very satisfied",positive
+22,Very happy with the quick response: quick resolution,positive
+23,Excellent support. very satisfied,positive
+24,Terrible support. agent was rude,negative
+25,Very disappointed with the service. kept transferring my call,negative
+26,Very disappointed with the service. charged me extra,negative
+27,Excellent support. quick resolution,positive
+28,Loved the refund processed smoothly and the staff were helpful.,positive
+29,Poor experience: charged me extra,negative
+30,Excellent support. very satisfied,positive
+31,The billing issue not resolved was unacceptable and frustrating.,negative
+32,Poor experience: website kept crashing,negative
+33,"Great service, friendly staff",positive
+34,Poor experience: billing issue not resolved,negative
+35,Loved the refund processed smoothly and the staff were helpful.,positive
+36,Loved the very satisfied and the staff were helpful.,positive
+37,The agent was rude was unacceptable and frustrating.,negative
+38,"Great service, very satisfied",positive
+39,Excellent support. friendly staff,positive
+40,Poor experience: promised callback never came,negative
+41,Terrible support. website kept crashing,negative
+42,"Great service, helpful support",positive
+43,Very happy with the quick response: quick resolution,positive
+44,Poor experience: website kept crashing,negative
+45,"Great service, very satisfied",positive
+46,Very disappointed with the service. took ages to resolve,negative
+47,Excellent support. quick resolution,positive
+48,The took ages to resolve was unacceptable and frustrating.,negative
+49,I waited too long and took ages to resolve,negative
+50,Very happy with the quick response: quick resolution,positive
+51,Very happy with the quick response: helpful support,positive
+52,Loved the quick resolution and the staff were helpful.,positive
+53,Very happy with the quick response: helpful support,positive
+54,Terrible support. promised callback never came,negative
+55,Loved the friendly staff and the staff were helpful.,positive
+56,Very disappointed with the service. kept transferring my call,negative
+57,The charged me extra was unacceptable and frustrating.,negative
+58,"Great service, friendly staff",positive
+59,"Great service, quick resolution",positive
+60,Very disappointed with the service. kept transferring my call,negative
+61,Poor experience: could not reach anyone,negative
+62,Very happy with the quick response: very satisfied,positive
+63,The service outage for hours was unacceptable and frustrating.,negative
+64,Loved the refund processed smoothly and the staff were helpful.,positive
+65,Very disappointed with the service. billing issue not resolved,negative
+66,I waited too long and promised callback never came,negative
+67,"Great service, friendly staff",positive
+68,Terrible support. took ages to resolve,negative
+69,Poor experience: website kept crashing,negative
+70,I waited too long and problem still not fixed,negative
+71,Poor experience: took ages to resolve,negative
+72,The took ages to resolve was unacceptable and frustrating.,negative
+73,The agent was rude was unacceptable and frustrating.,negative
+74,Very happy with the quick response: quick resolution,positive
+75,I waited too long and charged me extra,negative
+76,"Great service, quick resolution",positive
+77,I waited too long and could not reach anyone,negative
+78,Loved the helpful support and the staff were helpful.,positive
+79,The promised callback never came was unacceptable and frustrating.,negative
+80,Terrible support. charged me extra,negative
+81,"Great service, helpful support",positive
+82,The promised callback never came was unacceptable and frustrating.,negative
+83,Very happy with the quick response: friendly staff,positive
+84,"Great service, quick resolution",positive
+85,Very disappointed with the service. charged me extra,negative
+86,The charged me extra was unacceptable and frustrating.,negative
+87,"Great service, very satisfied",positive
+88,The service outage for hours was unacceptable and frustrating.,negative
+89,Excellent support. quick resolution,positive
+90,Excellent support. quick resolution,positive
+91,Poor experience: could not reach anyone,negative
+92,"Great service, friendly staff",positive
+93,"Great service, friendly staff",positive
+94,Excellent support. quick resolution,positive
+95,"Great service, quick resolution",positive
+96,Poor experience: promised callback never came,negative
+97,Excellent support. very satisfied,positive
+98,"Great service, very satisfied",positive
+99,Very disappointed with the service. problem still not fixed,negative
+100,Very disappointed with the service. website kept crashing,negative
+101,Terrible support. service outage for hours,negative
+102,Terrible support. charged me extra,negative
+103,Excellent support. very satisfied,positive
+104,"Great service, friendly staff",positive
+105,Excellent support. friendly staff,positive
+106,Poor experience: could not reach anyone,negative
+107,I waited too long and website kept crashing,negative
+108,"Great service, friendly staff",positive
+109,Poor experience: website kept crashing,negative
+110,Terrible support. service outage for hours,negative
+111,Loved the quick resolution and the staff were helpful.,positive
+112,Terrible support. agent was rude,negative
+113,Very happy with the quick response: quick resolution,positive
+114,Excellent support. very satisfied,positive
+115,Loved the very satisfied and the staff were helpful.,positive
+116,Very happy with the quick response: quick resolution,positive
+117,Very happy with the quick response: refund processed smoothly,positive
+118,Terrible support. billing issue not resolved,negative
+119,Very happy with the quick response: helpful support,positive
+120,Very disappointed with the service. billing issue not resolved,negative
+121,Loved the quick resolution and the staff were helpful.,positive
+122,I waited too long and kept transferring my call,negative
+123,Poor experience: charged me extra,negative
+124,Poor experience: billing issue not resolved,negative
+125,Very disappointed with the service. could not reach anyone,negative
+126,The billing issue not resolved was unacceptable and frustrating.,negative
+127,Excellent support. friendly staff,positive
+128,Terrible support. problem still not fixed,negative
+129,Excellent support. friendly staff,positive
+130,I waited too long and kept transferring my call,negative
+131,Excellent support. refund processed smoothly,positive
+132,"Great service, refund processed smoothly",positive
+133,Very happy with the quick response: helpful support,positive
+134,I waited too long and agent was rude,negative
+135,Very happy with the quick response: helpful support,positive
+136,Terrible support. service outage for hours,negative
+137,Very disappointed with the service. could not reach anyone,negative
+138,Loved the helpful support and the staff were helpful.,positive
+139,Terrible support. website kept crashing,negative
+140,I waited too long and billing issue not resolved,negative
+141,Very happy with the quick response: very satisfied,positive
+142,Loved the very satisfied and the staff were helpful.,positive
+143,Excellent support. helpful support,positive
+144,The service outage for hours was unacceptable and frustrating.,negative
+145,Loved the refund processed smoothly and the staff were helpful.,positive
+146,Poor experience: website kept crashing,negative
+147,Very happy with the quick response: friendly staff,positive
+148,The kept transferring my call was unacceptable and frustrating.,negative
+149,Poor experience: could not reach anyone,negative
+150,Poor experience: problem still not fixed,negative
+151,Poor experience: promised callback never came,negative
+152,"Great service, refund processed smoothly",positive
+153,The charged me extra was unacceptable and frustrating.,negative
+154,Loved the refund processed smoothly and the staff were helpful.,positive
+155,Poor experience: agent was rude,negative
+156,"Great service, refund processed smoothly",positive
+157,The promised callback never came was unacceptable and frustrating.,negative
+158,Poor experience: took ages to resolve,negative
+159,Loved the very satisfied and the staff were helpful.,positive
+160,Excellent support. refund processed smoothly,positive
+161,Loved the very satisfied and the staff were helpful.,positive
+162,Poor experience: promised callback never came,negative
+163,Very happy with the quick response: helpful support,positive
+164,Loved the quick resolution and the staff were helpful.,positive
+165,Very disappointed with the service. could not reach anyone,negative
+166,Terrible support. kept transferring my call,negative
+167,"Great service, quick resolution",positive
+168,I waited too long and problem still not fixed,negative
+169,"Great service, refund processed smoothly",positive
+170,The promised callback never came was unacceptable and frustrating.,negative
+171,Poor experience: billing issue not resolved,negative
+172,The agent was rude was unacceptable and frustrating.,negative
+173,Loved the refund processed smoothly and the staff were helpful.,positive
+174,Terrible support. could not reach anyone,negative
+175,Loved the very satisfied and the staff were helpful.,positive
+176,Very happy with the quick response: refund processed smoothly,positive
+177,I waited too long and promised callback never came,negative
+178,Terrible support. billing issue not resolved,negative
+179,Loved the quick resolution and the staff were helpful.,positive
+180,"Great service, refund processed smoothly",positive
+181,"Great service, friendly staff",positive
+182,Very happy with the quick response: refund processed smoothly,positive
+183,Terrible support. billing issue not resolved,negative
+184,I waited too long and kept transferring my call,negative
+185,I waited too long and could not reach anyone,negative
+186,Loved the helpful support and the staff were helpful.,positive
+187,Loved the friendly staff and the staff were helpful.,positive
+188,"Great service, helpful support",positive
+189,Very disappointed with the service. agent was rude,negative
+190,Very happy with the quick response: quick resolution,positive
+191,Very happy with the quick response: quick resolution,positive
+192,Very disappointed with the service. service outage for hours,negative
+193,Loved the helpful support and the staff were helpful.,positive
+194,Very happy with the quick response: very satisfied,positive
+195,"Great service, quick resolution",positive
+196,"Great service, very satisfied",positive
+197,Terrible support. service outage for hours,negative
+198,Loved the refund processed smoothly and the staff were helpful.,positive
+199,Very happy with the quick response: friendly staff,positive
+200,Very happy with the quick response: friendly staff,positive
+201,Excellent support. very satisfied,positive
+202,"Great service, helpful support",positive
+203,Excellent support. friendly staff,positive
+204,Excellent support. friendly staff,positive
+205,Loved the friendly staff and the staff were helpful.,positive
+206,Terrible support. promised callback never came,negative
+207,Loved the quick resolution and the staff were helpful.,positive
+208,Excellent support. very satisfied,positive
+209,Loved the refund processed smoothly and the staff were helpful.,positive
+210,The could not reach anyone was unacceptable and frustrating.,negative
+211,Poor experience: took ages to resolve,negative
+212,I waited too long and charged me extra,negative
+213,Loved the helpful support and the staff were helpful.,positive
+214,Terrible support. problem still not fixed,negative
+215,Excellent support. helpful support,positive
+216,The could not reach anyone was unacceptable and frustrating.,negative
+217,Very happy with the quick response: friendly staff,positive
+218,I waited too long and promised callback never came,negative
+219,Very happy with the quick response: refund processed smoothly,positive
+220,Loved the refund processed smoothly and the staff were helpful.,positive
+221,"Great service, helpful support",positive
+222,Poor experience: could not reach anyone,negative
+223,Excellent support. refund processed smoothly,positive
+224,Excellent support. refund processed smoothly,positive
+225,Excellent support. helpful support,positive
+226,Excellent support. helpful support,positive
+227,Very disappointed with the service. charged me extra,negative
+228,The problem still not fixed was unacceptable and frustrating.,negative
+229,I waited too long and could not reach anyone,negative
+230,Excellent support. friendly staff,positive
+231,Excellent support. quick resolution,positive
+232,Terrible support. agent was rude,negative
+233,Very happy with the quick response: helpful support,positive
+234,Very disappointed with the service. website kept crashing,negative
+235,Poor experience: promised callback never came,negative
+236,Very disappointed with the service. service outage for hours,negative
+237,I waited too long and promised callback never came,negative
+238,Very disappointed with the service. could not reach anyone,negative
+239,Loved the friendly staff and the staff were helpful.,positive
+240,Loved the refund processed smoothly and the staff were helpful.,positive
+241,Very disappointed with the service. problem still not fixed,negative
+242,The could not reach anyone was unacceptable and frustrating.,negative
+243,Poor experience: took ages to resolve,negative
+244,Loved the very satisfied and the staff were helpful.,positive
+245,Very happy with the quick response: very satisfied,positive
+246,I waited too long and could not reach anyone,negative
+247,Loved the helpful support and the staff were helpful.,positive
+248,"Great service, very satisfied",positive
+249,"Great service, quick resolution",positive
+250,Excellent support. friendly staff,positive
+251,Poor experience: website kept crashing,negative
+252,Very disappointed with the service. billing issue not resolved,negative
+253,Loved the helpful support and the staff were helpful.,positive
+254,Terrible support. could not reach anyone,negative
+255,Loved the friendly staff and the staff were helpful.,positive
+256,Excellent support. very satisfied,positive
+257,Very happy with the quick response: refund processed smoothly,positive
+258,Poor experience: problem still not fixed,negative
+259,Very happy with the quick response: friendly staff,positive
+260,Terrible support. service outage for hours,negative
+261,Excellent support. refund processed smoothly,positive
+262,Terrible support. billing issue not resolved,negative
+263,Loved the refund processed smoothly and the staff were helpful.,positive
+264,Very disappointed with the service. billing issue not resolved,negative
+265,Excellent support. friendly staff,positive
+266,The service outage for hours was unacceptable and frustrating.,negative
+267,Excellent support. very satisfied,positive
+268,Poor experience: promised callback never came,negative
+269,Loved the helpful support and the staff were helpful.,positive
+270,The billing issue not resolved was unacceptable and frustrating.,negative
+271,Loved the friendly staff and the staff were helpful.,positive
+272,Loved the helpful support and the staff were helpful.,positive
+273,Very disappointed with the service. problem still not fixed,negative
+274,I waited too long and could not reach anyone,negative
+275,Loved the very satisfied and the staff were helpful.,positive
+276,Very disappointed with the service. kept transferring my call,negative
+277,Very disappointed with the service. billing issue not resolved,negative
+278,"Great service, very satisfied",positive
+279,"Great service, quick resolution",positive
+280,Loved the refund processed smoothly and the staff were helpful.,positive
+281,Very happy with the quick response: helpful support,positive
+282,Excellent support. refund processed smoothly,positive
+283,Loved the friendly staff and the staff were helpful.,positive
+284,The charged me extra was unacceptable and frustrating.,negative
+285,Excellent support. very satisfied,positive
+286,I waited too long and took ages to resolve,negative
+287,Very disappointed with the service. promised callback never came,negative
+288,Very happy with the quick response: refund processed smoothly,positive
+289,Excellent support. very satisfied,positive
+290,Loved the refund processed smoothly and the staff were helpful.,positive
+291,Very happy with the quick response: refund processed smoothly,positive
+292,Loved the quick resolution and the staff were helpful.,positive
+293,Very happy with the quick response: friendly staff,positive
+294,I waited too long and kept transferring my call,negative
+295,Excellent support. friendly staff,positive
+296,Terrible support. service outage for hours,negative
+297,Loved the quick resolution and the staff were helpful.,positive
+298,I waited too long and kept transferring my call,negative
+299,The billing issue not resolved was unacceptable and frustrating.,negative
+300,Excellent support. quick resolution,positive
